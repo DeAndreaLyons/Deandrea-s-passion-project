@@ -2,9 +2,8 @@ div{
     color:SlateBlue
 }
 body{
-    background-color: turquoise;
+ background-image: url("https://ui-ex.com/images/sparkles-transparent-grey-3.gif")
 }
-
 h1{
     color: red;
 }
@@ -24,4 +23,10 @@ h1 {
   font-style: oblique;
 }
 
+p{
+    color: black
+}
 
+forms{
+    color:azure
+}
